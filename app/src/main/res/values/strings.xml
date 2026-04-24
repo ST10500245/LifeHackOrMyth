@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Life Hack or Myth?</string>
+    <string name="welcome_title">Life Hack or Myth?</string>
+    <string name="welcome_description">Test your instincts against 10 everyday claims. Pick Hack or Myth, get instant feedback, and see how many common tips actually hold up.</string>
+    <string name="start_button">Start quiz</string>
+    <string name="hack_button">Hack</string>
+    <string name="myth_button">Myth</string>
+    <string name="next_button">Next question</string>
+    <string name="review_button">Review answers</string>
+    <string name="restart_button">Play again</string>
+    <string name="question_progress">Question %1$d of %2$d</string>
+    <string name="correct_feedback">Correct. That one really works.</string>
+    <string name="incorrect_feedback">Not quite. That one is a myth.</string>
+    <string name="score_title">Quiz complete</string>
+    <string name="score_summary">Your score: %1$d/%2$d</string>
+    <string name="score_feedback_master">You have a sharp eye for useful advice.</string>
+    <string name="score_feedback_great">Strong round. You know your hacks well.</string>
+    <string name="score_feedback_good">Nice start. A few more rounds and you will nail it.</string>
+    <string name="score_feedback_try_again">A couple of those were tricky. Try again and compare the explanations.</string>
+    <string name="review_title">Answer review</string>
+    <string name="review_question_format">Question %1$d: %2$s</string>
+    <string name="review_answer_format">Answer: %1$s</string>
+    <string name="review_explanation_format">Why: %1$s</string>
+    <string name="answer_hack">Hack</string>
+    <string name="answer_myth">Myth</string>
+</resources>

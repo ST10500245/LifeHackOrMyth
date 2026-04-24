@@ -1,0 +1,40 @@
+# Gradle files
+.gradle/
+.gradletasknamecache
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio generated files
+.idea/
+*.iml
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+
+# Android Studio project files
+.classpath
+.project
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.tmp
+
+# Kotlin
+*.kt.bak
